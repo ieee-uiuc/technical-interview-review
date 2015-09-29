@@ -6,6 +6,9 @@ This is meant to be done collectively, so feel free to fork the repo, make any a
 
 Note: Since this is going to be viewed on GitHub (for now, at least), we're going to be using [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). If you're going to be making edits, please familiarize yourself with Markdown first!
 
+Note: If you want to put images in your document, put them in the `assets` folder, and use the following format to link to it: `https://raw.github.com/ieee-uiuc/technical-interview-review/master/asset/<image-file>`.
+
+
 Note: We're starting out with ECE and CS classes, but this can certainly expand to other topics as well!
 
 Initial List:
