@@ -8,12 +8,13 @@ Note: Since this is going to be viewed on GitHub (for now, at least), we're goin
 
 Note: If you want to put images in your document, put them in the `assets` folder, and use the following format to link to it: `https://raw.github.com/ieee-uiuc/technical-interview-review/master/asset/<image-file>`.
 
-
 Note: We're starting out with ECE and CS classes, but this can certainly expand to other topics as well!
+
+Note: If you're using a schematic, please maintain consistency and use Digikey's [SchemeIt Tool](http://www.digikey.com/schemeit/).
 
 Initial List:
   1. CS 225 - Data Structures
   2. CS 374 - Algorithms
   3. ECE 391 - Computer Systems Engineering
   4. CS 241 - Systems Programming
-  
+  5. ECE 210 - Analog Signal Processing
